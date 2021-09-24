@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15852906102",
+    "project_id": "dubizie",
+    "storage_bucket": "dubizie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15852906102:android:a5cd966d82408ddd1e6157",
+        "android_client_info": {
+          "package_name": "com.ahmedabdoehab.dubizie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15852906102-08d6l0s8com3rm7fab3fn7iene41lmra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaG3VxS5zdef6-R1hcvPv4h3E1cUmhHgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15852906102-08d6l0s8com3rm7fab3fn7iene41lmra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
